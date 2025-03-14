@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02_params", "02_params\02_p
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03_Data_Access_layer", "03_Data_Access_layer\03_Data_Access_layer.csproj", "{9FA734B9-739C-4AB4-9DDA-5A531E925525}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_EF_CodeFirst", "06_EF_CodeFirst\06_EF_CodeFirst.csproj", "{3F23CC87-67FA-4BFF-BF3C-C65D3C9C117D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06_EF_CodeFirst", "06_EF_CodeFirst\06_EF_CodeFirst.csproj", "{3F23CC87-67FA-4BFF-BF3C-C65D3C9C117D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_EF-Data annotation _ fluent api", "07_EF-Data annotation _ fluent api\07_EF-Data annotation _ fluent api.csproj", "{584B723C-06D3-4FD1-9903-1426A86CD927}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{3F23CC87-67FA-4BFF-BF3C-C65D3C9C117D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3F23CC87-67FA-4BFF-BF3C-C65D3C9C117D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3F23CC87-67FA-4BFF-BF3C-C65D3C9C117D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{584B723C-06D3-4FD1-9903-1426A86CD927}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{584B723C-06D3-4FD1-9903-1426A86CD927}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{584B723C-06D3-4FD1-9903-1426A86CD927}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{584B723C-06D3-4FD1-9903-1426A86CD927}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
